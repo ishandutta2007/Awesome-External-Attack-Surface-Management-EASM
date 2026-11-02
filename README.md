@@ -140,90 +140,90 @@ Enterprise-grade, cloud-hosted External Attack Surface Management and Exposure M
 
 ## 🔓 Open-Source Software & Recon Tools
 
-Community-built, self-hosted External Attack Surface Management tools, scanners, and recon automation engines sorted in descending order by GitHub Stars.
+Community-built, self-hosted External Attack Surface Management tools, scanners, and recon automation engines sorted in descending order by GitHub_Stars.
 
 ### ⭐ Open-Source Repositories Ranked by Stars
 
-| 🛠️ Project Name | 🌟 GitHub Stars Badge | 💻 Primary Stack | 📜 License | 🎯 Key Architecture / Capability |
+| 🛠️ Project Name | 🌟 GitHub_Stars_Badge | 💻 Primary Stack | 📜 License | 🎯 Key Architecture / Capability |
 | :--- | :--- | :--- | :--- | :--- |
-| **[ProjectDiscovery Nuclei](https://github.com/projectdiscovery/nuclei)** | [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers) | Go | MIT | Fast, template-based exposure and vulnerability scanning engine |
-| **[OWASP Amass](https://github.com/owasp-amass/amass)** | [![GitHub stars](https://img.shields.io/github/stars/owasp-amass/amass?style=social&color=white)](https://github.com/owasp-amass/amass/stargazers) | Go | Apache-2.0 | In-depth network mapping, DNS enumeration, and asset graph discovery |
-| **[ProjectDiscovery Subfinder](https://github.com/projectdiscovery/subfinder)** | [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/subfinder?style=social&color=white)](https://github.com/projectdiscovery/subfinder/stargazers) | Go | MIT | Fast passive subdomain enumeration utilizing 40+ OSINT sources |
-| **[1N3 Sn1per](https://github.com/1N3/Sn1per)** | [![GitHub stars](https://img.shields.io/github/stars/1N3/Sn1per?style=social&color=white)](https://github.com/1N3/Sn1per/stargazers) | Shell / Python | GPL-3.0 | Automated pentest & attack surface recon with 90+ tool integrations |
-| **[reNgine](https://github.com/yogeshojha/rengine)** | [![GitHub stars](https://img.shields.io/github/stars/yogeshojha/rengine?style=social&color=white)](https://github.com/yogeshojha/rengine/stargazers) | Python / Django | GNU GPL-3.0 | Web application recon engine with pipeline orchestration & modern UI |
-| **[six2dez reconftw](https://github.com/six2dez/reconftw)** | [![GitHub stars](https://img.shields.io/github/stars/six2dez/reconftw?style=social&color=white)](https://github.com/six2dez/reconftw/stargazers) | Bash / Python | MIT | Automated end-to-end multi-threaded reconnaissance and OSINT pipeline |
-| **[Osmedeus](https://github.com/j3ssie/osmedeus)** | [![GitHub stars](https://img.shields.io/github/stars/j3ssie/osmedeus?style=social&color=white)](https://github.com/j3ssie/osmedeus/stargazers) | Go | MIT | Workflow-driven offensive security automation for continuous EASM |
-| **[IVRE](https://github.com/ivre/ivre)** | [![GitHub stars](https://img.shields.io/github/stars/ivre/ivre?style=social&color=white)](https://github.com/ivre/ivre/stargazers) | Python | GNU GPL-3.0 | Self-hosted alternative to Shodan & Censys; passive & active network recon |
-| **[Findomain](https://github.com/Findomain/Findomain)** | [![GitHub stars](https://img.shields.io/github/stars/Findomain/Findomain?style=social&color=white)](https://github.com/Findomain/Findomain/stargazers) | Rust | GPL-3.0 | Blazing fast subdomain monitoring, HTTP probing, and alerting tool |
-| **[yyhuni xingrin](https://github.com/yyhuni/xingrin)** | [![GitHub stars](https://img.shields.io/github/stars/yyhuni/xingrin?style=social&color=white)](https://github.com/yyhuni/xingrin/stargazers) | TypeScript | GPL-3.0 | Modern authorized EASM platform with asset discovery & scan orchestration |
-| **[Natlas](https://github.com/natlas/natlas)** | [![GitHub stars](https://img.shields.io/github/stars/natlas/natlas?style=social&color=white)](https://github.com/natlas/natlas/stargazers) | Python / Flask | MIT | Scalable, distributed port scanning & network attack surface explorer |
-| **[EasyEASM](https://github.com/g0ldencybersec/EasyEASM)** | [![GitHub stars](https://img.shields.io/github/stars/g0ldencybersec/EasyEASM?style=social&color=white)](https://github.com/g0ldencybersec/EasyEASM/stargazers) | Go | MIT | Zero-dollar self-hosted attack surface monitor with Slack/Discord alerts |
-| **[Open-ASM](https://github.com/oasm-platform/open-asm)** | [![GitHub stars](https://img.shields.io/github/stars/oasm-platform/open-asm?style=social&color=white)](https://github.com/oasm-platform/open-asm/stargazers) | Python / Go | Apache-2.0 | Open-source ASM platform for discovering assets & owning security data |
-| **[LunaFox](https://github.com/yyhuni/lunafox)** | [![GitHub stars](https://img.shields.io/github/stars/yyhuni/lunafox?style=social&color=white)](https://github.com/yyhuni/lunafox/stargazers) | Go / Vue | GPL-3.0 | Distributed agent-based EASM and vulnerability scanner orchestration |
-| **[OpenEASD](https://github.com/cybersecify/OpenEASD)** | [![GitHub stars](https://img.shields.io/github/stars/cybersecify/OpenEASD?style=social&color=white)](https://github.com/cybersecify/OpenEASD/stargazers) | Python / Docker | MIT | Single-command Docker EASM scanner ranked with EPSS/KEV exploit scoring |
+| **[ProjectDiscovery Nuclei](https://github.com/projectdiscovery/nuclei)** | [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers) | Go | MIT | Fast, template-based exposure and vulnerability scanning engine |
+| **[OWASP Amass](https://github.com/owasp-amass/amass)** | [![GitHub_Stars](https://img.shields.io/github/stars/owasp-amass/amass?style=social&color=white)](https://github.com/owasp-amass/amass/stargazers) | Go | Apache-2.0 | In-depth network mapping, DNS enumeration, and asset graph discovery |
+| **[ProjectDiscovery Subfinder](https://github.com/projectdiscovery/subfinder)** | [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/subfinder?style=social&color=white)](https://github.com/projectdiscovery/subfinder/stargazers) | Go | MIT | Fast passive subdomain enumeration utilizing 40+ OSINT sources |
+| **[1N3 Sn1per](https://github.com/1N3/Sn1per)** | [![GitHub_Stars](https://img.shields.io/github/stars/1N3/Sn1per?style=social&color=white)](https://github.com/1N3/Sn1per/stargazers) | Shell / Python | GPL-3.0 | Automated pentest & attack surface recon with 90+ tool integrations |
+| **[reNgine](https://github.com/yogeshojha/rengine)** | [![GitHub_Stars](https://img.shields.io/github/stars/yogeshojha/rengine?style=social&color=white)](https://github.com/yogeshojha/rengine/stargazers) | Python / Django | GNU GPL-3.0 | Web application recon engine with pipeline orchestration & modern UI |
+| **[six2dez reconftw](https://github.com/six2dez/reconftw)** | [![GitHub_Stars](https://img.shields.io/github/stars/six2dez/reconftw?style=social&color=white)](https://github.com/six2dez/reconftw/stargazers) | Bash / Python | MIT | Automated end-to-end multi-threaded reconnaissance and OSINT pipeline |
+| **[Osmedeus](https://github.com/j3ssie/osmedeus)** | [![GitHub_Stars](https://img.shields.io/github/stars/j3ssie/osmedeus?style=social&color=white)](https://github.com/j3ssie/osmedeus/stargazers) | Go | MIT | Workflow-driven offensive security automation for continuous EASM |
+| **[IVRE](https://github.com/ivre/ivre)** | [![GitHub_Stars](https://img.shields.io/github/stars/ivre/ivre?style=social&color=white)](https://github.com/ivre/ivre/stargazers) | Python | GNU GPL-3.0 | Self-hosted alternative to Shodan & Censys; passive & active network recon |
+| **[Findomain](https://github.com/Findomain/Findomain)** | [![GitHub_Stars](https://img.shields.io/github/stars/Findomain/Findomain?style=social&color=white)](https://github.com/Findomain/Findomain/stargazers) | Rust | GPL-3.0 | Blazing fast subdomain monitoring, HTTP probing, and alerting tool |
+| **[yyhuni xingrin](https://github.com/yyhuni/xingrin)** | [![GitHub_Stars](https://img.shields.io/github/stars/yyhuni/xingrin?style=social&color=white)](https://github.com/yyhuni/xingrin/stargazers) | TypeScript | GPL-3.0 | Modern authorized EASM platform with asset discovery & scan orchestration |
+| **[Natlas](https://github.com/natlas/natlas)** | [![GitHub_Stars](https://img.shields.io/github/stars/natlas/natlas?style=social&color=white)](https://github.com/natlas/natlas/stargazers) | Python / Flask | MIT | Scalable, distributed port scanning & network attack surface explorer |
+| **[EasyEASM](https://github.com/g0ldencybersec/EasyEASM)** | [![GitHub_Stars](https://img.shields.io/github/stars/g0ldencybersec/EasyEASM?style=social&color=white)](https://github.com/g0ldencybersec/EasyEASM/stargazers) | Go | MIT | Zero-dollar self-hosted attack surface monitor with Slack/Discord alerts |
+| **[Open-ASM](https://github.com/oasm-platform/open-asm)** | [![GitHub_Stars](https://img.shields.io/github/stars/oasm-platform/open-asm?style=social&color=white)](https://github.com/oasm-platform/open-asm/stargazers) | Python / Go | Apache-2.0 | Open-source ASM platform for discovering assets & owning security data |
+| **[LunaFox](https://github.com/yyhuni/lunafox)** | [![GitHub_Stars](https://img.shields.io/github/stars/yyhuni/lunafox?style=social&color=white)](https://github.com/yyhuni/lunafox/stargazers) | Go / Vue | GPL-3.0 | Distributed agent-based EASM and vulnerability scanner orchestration |
+| **[OpenEASD](https://github.com/cybersecify/OpenEASD)** | [![GitHub_Stars](https://img.shields.io/github/stars/cybersecify/OpenEASD?style=social&color=white)](https://github.com/cybersecify/OpenEASD/stargazers) | Python / Docker | MIT | Single-command Docker EASM scanner ranked with EPSS/KEV exploit scoring |
 
 ---
 
 ### 🛠️ Detailed Open-Source Project Breakdown
 
 #### 1. ⚡ [ProjectDiscovery Nuclei](https://github.com/projectdiscovery/nuclei)
-* **GitHub Stars:** [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers) | **License:** MIT | **Stack:** Go
+* **GitHub_Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers) | **License:** MIT | **Stack:** Go
 * **Overview:** The de facto standard open-source vulnerability scanner powered by YAML DSL templates. Emitted across thousands of security teams to validate exposed technologies, CVEs, misconfigurations, and leaked sensitive files across newly identified attack surface targets.
 
 #### 2. 🗺️ [OWASP Amass](https://github.com/owasp-amass/amass)
-* **GitHub Stars:** [![GitHub stars](https://img.shields.io/github/stars/owasp-amass/amass?style=social&color=white)](https://github.com/owasp-amass/amass/stargazers) | **License:** Apache-2.0 | **Stack:** Go
+* **GitHub_Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/owasp-amass/amass?style=social&color=white)](https://github.com/owasp-amass/amass/stargazers) | **License:** Apache-2.0 | **Stack:** Go
 * **Overview:** Flagship OWASP project for in-depth network attack surface mapping and external asset discovery. Gathers data from 55+ open-source intelligence feeds, certificate transparency logs, active DNS brute forcing, routing tables, and web archives to construct rich graph databases of target infrastructure.
 
 #### 3. 🔍 [ProjectDiscovery Subfinder](https://github.com/projectdiscovery/subfinder)
-* **GitHub Stars:** [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/subfinder?style=social&color=white)](https://github.com/projectdiscovery/subfinder/stargazers) | **License:** MIT | **Stack:** Go
+* **GitHub_Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/subfinder?style=social&color=white)](https://github.com/projectdiscovery/subfinder/stargazers) | **License:** MIT | **Stack:** Go
 * **Overview:** Fast passive subdomain enumeration tool designed to discover valid subdomains of websites using passive online sources. Engineered for speed, stability, and modular integration into custom EASM pipeline scripts.
 
 #### 4. 🎯 [1N3 Sn1per](https://github.com/1N3/Sn1per)
-* **GitHub Stars:** [![GitHub stars](https://img.shields.io/github/stars/1N3/Sn1per?style=social&color=white)](https://github.com/1N3/Sn1per/stargazers) | **License:** GPL-3.0 | **Stack:** Shell / Python
+* **GitHub_Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/1N3/Sn1per?style=social&color=white)](https://github.com/1N3/Sn1per/stargazers) | **License:** GPL-3.0 | **Stack:** Shell / Python
 * **Overview:** Comprehensive automated reconnaissance and penetration testing framework. Orchestrates 90+ security tools and 10,000+ detections to discover attack surfaces, execute vulnerability scans, and generate professional HTML/PDF reports.
 
 #### 5. 🎨 [reNgine](https://github.com/yogeshojha/rengine)
-* **GitHub Stars:** [![GitHub stars](https://img.shields.io/github/stars/yogeshojha/rengine?style=social&color=white)](https://github.com/yogeshojha/rengine/stargazers) | **License:** GPL-3.0 | **Stack:** Python (Django) / Celery / Docker
+* **GitHub_Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/yogeshojha/rengine?style=social&color=white)](https://github.com/yogeshojha/rengine/stargazers) | **License:** GPL-3.0 | **Stack:** Python (Django) / Celery / Docker
 * **Overview:** An automated reconnaissance framework with a sleek dashboard UI, configurable scan engines, continuous monitoring diffs, and database storage for penetration testers and corporate security teams.
 
 #### 6. 🚀 [six2dez reconftw](https://github.com/six2dez/reconftw)
-* **GitHub Stars:** [![GitHub stars](https://img.shields.io/github/stars/six2dez/reconftw?style=social&color=white)](https://github.com/six2dez/reconftw/stargazers) | **License:** MIT | **Stack:** Bash / Python
+* **GitHub_Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/six2dez/reconftw?style=social&color=white)](https://github.com/six2dez/reconftw/stargazers) | **License:** MIT | **Stack:** Bash / Python
 * **Overview:** Multi-threaded automated recon suite that executes end-to-end enumeration: subdomain discovery, web probing, visual screenshots, port scanning, OSINT investigations, directory fuzzing, and vulnerability scanning in one command.
 
 #### 7. ⚙️ [Osmedeus](https://github.com/j3ssie/osmedeus)
-* **GitHub Stars:** [![GitHub stars](https://img.shields.io/github/stars/j3ssie/osmedeus?style=social&color=white)](https://github.com/j3ssie/osmedeus/stargazers) | **License:** MIT | **Stack:** Go
+* **GitHub_Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/j3ssie/osmedeus?style=social&color=white)](https://github.com/j3ssie/osmedeus/stargazers) | **License:** MIT | **Stack:** Go
 * **Overview:** Highly flexible offensive security engine designed for building custom reconnaissance workflows, distributed asset mapping, and automated cloud infrastructure probing.
 
 #### 8. 🌐 [IVRE](https://github.com/ivre/ivre)
-* **GitHub Stars:** [![GitHub stars](https://img.shields.io/github/stars/ivre/ivre?style=social&color=white)](https://github.com/ivre/ivre/stargazers) | **License:** GPL-3.0 | **Stack:** Python / MongoDB
+* **GitHub_Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/ivre/ivre?style=social&color=white)](https://github.com/ivre/ivre/stargazers) | **License:** GPL-3.0 | **Stack:** Python / MongoDB
 * **Overview:** Self-hosted network reconnaissance framework allowing organizations to build private alternatives to Shodan and ZoomEye. Integrates Nmap, Masscan, Zeek, and p0f into an enterprise data analytics dashboard.
 
 #### 9. ⚡ [Findomain](https://github.com/Findomain/Findomain)
-* **GitHub Stars:** [![GitHub stars](https://img.shields.io/github/stars/Findomain/Findomain?style=social&color=white)](https://github.com/Findomain/Findomain/stargazers) | **License:** GPL-3.0 | **Stack:** Rust
+* **GitHub_Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/Findomain/Findomain?style=social&color=white)](https://github.com/Findomain/Findomain/stargazers) | **License:** GPL-3.0 | **Stack:** Rust
 * **Overview:** High-speed subdomain intelligence tool written in Rust. Features automated continuous subdomain monitoring, HTTP service verification, port scanning, and instant alerting via Slack, Discord, and Telegram webhooks.
 
 #### 10. 🛡️ [yyhuni xingrin](https://github.com/yyhuni/xingrin)
-* **GitHub Stars:** [![GitHub stars](https://img.shields.io/github/stars/yyhuni/xingrin?style=social&color=white)](https://github.com/yyhuni/xingrin/stargazers) | **License:** GPL-3.0 | **Stack:** TypeScript / Node.js
+* **GitHub_Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/yyhuni/xingrin?style=social&color=white)](https://github.com/yyhuni/xingrin/stargazers) | **License:** GPL-3.0 | **Stack:** TypeScript / Node.js
 * **Overview:** Modern authorized attack surface management and security automation platform with asset discovery, service probing, scan orchestration, and security issue remediation tracking.
 
 #### 11. 🧭 [Natlas](https://github.com/natlas/natlas)
-* **GitHub Stars:** [![GitHub stars](https://img.shields.io/github/stars/natlas/natlas?style=social&color=white)](https://github.com/natlas/natlas/stargazers) | **License:** MIT | **Stack:** Python / Flask / ElasticSearch
+* **GitHub_Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/natlas/natlas?style=social&color=white)](https://github.com/natlas/natlas/stargazers) | **License:** MIT | **Stack:** Python / Flask / ElasticSearch
 * **Overview:** Distributed, scalable network scanning and EASM explorer. Employs independent scan agents that feed findings into a centralized, searchable web portal.
 
 #### 12. 💡 [EasyEASM](https://github.com/g0ldencybersec/EasyEASM)
-* **GitHub Stars:** [![GitHub stars](https://img.shields.io/github/stars/g0ldencybersec/EasyEASM?style=social&color=white)](https://github.com/g0ldencybersec/EasyEASM/stargazers) | **License:** MIT | **Stack:** Go
+* **GitHub_Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/g0ldencybersec/EasyEASM?style=social&color=white)](https://github.com/g0ldencybersec/EasyEASM/stargazers) | **License:** MIT | **Stack:** Go
 * **Overview:** Lightweight, zero-cost attack surface monitoring tool designed for lean security teams. Continuously checks for new subdomains, open ports, and live HTTP services, piping immediate alerts into Slack and Discord.
 
 #### 13. 📦 [Open-ASM](https://github.com/oasm-platform/open-asm)
-* **GitHub Stars:** [![GitHub stars](https://img.shields.io/github/stars/oasm-platform/open-asm?style=social&color=white)](https://github.com/oasm-platform/open-asm/stargazers) | **License:** Apache-2.0 | **Stack:** Python / Go
+* **GitHub_Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/oasm-platform/open-asm?style=social&color=white)](https://github.com/oasm-platform/open-asm/stargazers) | **License:** Apache-2.0 | **Stack:** Python / Go
 * **Overview:** Open-source foundation for attack surface management. Discovers external assets, inventories DNS records, flags exposures, and gives enterprises 100% data ownership.
 
 #### 14. 🦊 [LunaFox](https://github.com/yyhuni/lunafox)
-* **GitHub Stars:** [![GitHub stars](https://img.shields.io/github/stars/yyhuni/lunafox?style=social&color=white)](https://github.com/yyhuni/lunafox/stargazers) | **License:** GPL-3.0 | **Stack:** Go / Vue
+* **GitHub_Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/yyhuni/lunafox?style=social&color=white)](https://github.com/yyhuni/lunafox/stargazers) | **License:** GPL-3.0 | **Stack:** Go / Vue
 * **Overview:** Self-hosted EASM platform featuring distributed scanning agents, asset discovery pipelines, and vulnerability lifecycle workflows.
 
 #### 15. 🐳 [OpenEASD](https://github.com/cybersecify/OpenEASD)
-* **GitHub Stars:** [![GitHub stars](https://img.shields.io/github/stars/cybersecify/OpenEASD?style=social&color=white)](https://github.com/cybersecify/OpenEASD/stargazers) | **License:** MIT | **Stack:** Python / Shell / Docker Compose
+* **GitHub_Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/cybersecify/OpenEASD?style=social&color=white)](https://github.com/cybersecify/OpenEASD/stargazers) | **License:** MIT | **Stack:** Python / Shell / Docker Compose
 * **Overview:** Self-hosted external attack surface scanner running 30+ tools across 13 stages in a single `docker compose up`. Automatically prioritizes vulnerabilities using EPSS and CISA KEV (Known Exploited Vulnerabilities) scores.
 
 ---
