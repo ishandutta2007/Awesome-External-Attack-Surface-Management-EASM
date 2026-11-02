@@ -4,10 +4,10 @@
 
 # 🌐 Awesome External Attack Surface Management (EASM) 🎯
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=diccord&logoColor=white" alt="Discord" /></a>
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow%20%40ishandutta2007&style=social)](https://github.com/ishandutta2007)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > **A comprehensive, SEO-optimized, curated guide to the top External Attack Surface Management (EASM), Continuous Threat Exposure Management (CTEM), and cyber asset discovery tools — featuring enterprise SaaS platforms and self-hosted open-source security frameworks.** 🔍🛡️
 >
@@ -28,6 +28,8 @@
   - [🛠️ Detailed Open-Source Project Breakdown](#-detailed-open-source-project-breakdown)
 - [⚖️ Feature Comparison at a Glance](#-feature-comparison-at-a-glance)
 - [🚀 Key EASM Capabilities & Architecture](#-key-easm-capabilities--architecture)
+- [📈 Star History](#-star-history)
+- [💖 Support](#-support)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -265,6 +267,31 @@ flowchart LR
 3. **⚡ Exposure & Hygiene Detection:** Rapid identification of expired SSL certificates, DNS dangling records (subdomain takeover risks), and exposed administrative interfaces.
 4. **🎯 Threat-Informed Prioritization:** Leveraging Exploit Prediction Scoring System (EPSS) and CISA's Known Exploited Vulnerabilities (KEV) catalog rather than raw CVSS scores alone.
 5. **🚀 Workflow Mobilization:** Bi-directional webhooks and integrations into SIEM/SOAR platforms (Sentinel, XSOAR, Splunk, Tines) and developer ticketing systems (Jira, GitHub Issues).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-External-Attack-Surface-Management-EASM&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-External-Attack-Surface-Management-EASM&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you so much for visiting and utilizing this guide! 🙏
+
+If you found this curated External Attack Surface Management repository helpful to your team, research, or projects:
+- ⭐ **Star** this repository to help other cybersecurity professionals find it!
+- 🍴 **Fork** it to build and customize your own internal offensive security checklists.
+- 📢 **Share** it across your favorite security communities, LinkedIn, X/Twitter, or Reddit.
+
+If you would like to support the ongoing maintenance and curation of open-source security intelligence:
+
+<a href="https://github.com/sponsors/ishandutta2007" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor%20%2F%20Buy%20Me%20A%20Coffee-ishandutta2007-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+</a>
+
+Or visit the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007) directly. Thank you for your generosity and support! ☕✨
 
 ---
 
